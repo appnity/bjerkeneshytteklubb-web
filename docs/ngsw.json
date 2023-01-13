@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1673645061147,
+  "timestamp": 1673645404497,
   "index": "https://appnity.github.io/bjerkeneshytteklubb-web/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "https://appnity.github.io/bjerkeneshytteklubb-web/favicon.ico",
         "https://appnity.github.io/bjerkeneshytteklubb-web/index.html",
-        "https://appnity.github.io/bjerkeneshytteklubb-web/main.9be4a107a699a4f6.js",
+        "https://appnity.github.io/bjerkeneshytteklubb-web/main.8822f2e7d5561425.js",
         "https://appnity.github.io/bjerkeneshytteklubb-web/manifest.webmanifest",
         "https://appnity.github.io/bjerkeneshytteklubb-web/polyfills.8eab3fc7c3471662.js",
         "https://appnity.github.io/bjerkeneshytteklubb-web/runtime.e6ea1866cc4477a9.js",
@@ -159,8 +159,8 @@
     "https://appnity.github.io/bjerkeneshytteklubb-web/fa-light-300.2c89f75a4f11f965.ttf": "a979da923e66e1bc275b58ec7edea43de7d61509",
     "https://appnity.github.io/bjerkeneshytteklubb-web/fa-light-300.e76bde766f8f12b3.woff2": "6e10ec0fa1071a5e6cfb37d6426e5901750b4988",
     "https://appnity.github.io/bjerkeneshytteklubb-web/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://appnity.github.io/bjerkeneshytteklubb-web/index.html": "86c60782baa097ca4f41f00871b9ca4f4099f129",
-    "https://appnity.github.io/bjerkeneshytteklubb-web/main.9be4a107a699a4f6.js": "de4e16edd1d68bdfa3788ed3aea3dcf209fbeac3",
+    "https://appnity.github.io/bjerkeneshytteklubb-web/index.html": "d7ffe6ebb9fb2debfc9a6c8f416d745901f1fe14",
+    "https://appnity.github.io/bjerkeneshytteklubb-web/main.8822f2e7d5561425.js": "8bd82a9a9fb345de63d71d366b874ba7f6c9cf7b",
     "https://appnity.github.io/bjerkeneshytteklubb-web/manifest.webmanifest": "06dc97a37ac1aae16562ffbc1ae3bf60122eba51",
     "https://appnity.github.io/bjerkeneshytteklubb-web/polyfills.8eab3fc7c3471662.js": "3608a3648980a4f14e98145053e80ea457792dba",
     "https://appnity.github.io/bjerkeneshytteklubb-web/runtime.e6ea1866cc4477a9.js": "58ebe399caf88635592f51da452c476e4686a14c",
